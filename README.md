@@ -31,7 +31,7 @@
 
 ## 💡 Selected Projects
 
-### [Breast Cancer Detection using Machine Learning](https://github.com/GARVS0205/Breast-Cancer-Detection)  
+### [Breast Cancer Detection using Machine Learning](https://github.com/GARVS0205/breast-cancer-detection-ml)    
 - Developed a Streamlit web app to predict breast cancer using ML models with class imbalance handling techniques.  
 - Used XGBoost, RandomForest, SMOTE, and threshold tuning for high recall and F1-score.  
 
