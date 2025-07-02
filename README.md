@@ -34,10 +34,7 @@
 ### [Breast Cancer Detection using Machine Learning](https://github.com/GARVS0205/breast-cancer-detection-ml)    
 - Developed a Streamlit web app to predict breast cancer using ML models with class imbalance handling techniques.  
 - Used XGBoost, RandomForest, SMOTE, and threshold tuning for high recall and F1-score.  
-
-### [CTC Prediction using Regression Models](https://github.com/GARVS0205/CTC-Prediction)  
-- Built regression models to predict salary based on college tier, city, work experience, and prior pay.  
-- Used Linear Regression, Ridge Regression, and Statsmodels with strong evaluation metrics.  
+  
 
 ### [Rainfall Prediction using Machine Learning](https://github.com/GARVS0205/Rainfall-Prediction)  
 - Created a classifier to predict rain using historical weather data with Logistic Regression and Random Forest.  
